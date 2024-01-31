@@ -1,2 +1,3 @@
-# predicciones-de-ventas
-En este proyecto vamos a analizar datos de ventas y a realizar predicciones.
+ML & DL
+
+Proyectos de procesamiento de datos a travez de EDA, preprocesamiento, machine learning y neural network
