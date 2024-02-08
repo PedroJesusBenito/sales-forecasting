@@ -1,3 +1,3 @@
 ML & DL
 
-Proyectos de procesamiento de datos a travez de EDA, preprocesamiento, machine learning y neural network
+EDA, data analisis and preprocessing to use on diferent Machine Learning and Neural Networks Models
